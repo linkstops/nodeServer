@@ -1,0 +1,17 @@
+{
+  "name": "mcdonalds-demo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hamdi OCHI",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "express": "^4.16.3",
+    "underscore": "^1.9.0"
+  }
+}
